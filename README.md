@@ -1,4 +1,4 @@
- ## Sou o Enan Dorta, amante da tecnologia e Desenvolvedor Full Stack.
+ ## Desenvolvedor Full Stack.
  
 
 <div align="center">
